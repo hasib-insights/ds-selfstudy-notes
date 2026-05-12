@@ -1,9 +1,10 @@
 Variables
 ```python
 variavle_name = value
-
 ```
-v
+create a variable
+```python
+salary = 1000
 
 
 
