@@ -10,7 +10,7 @@ print(x)
 print(y)
 ```
 output:
-```python
+```
 5
 Hasib
 ```
@@ -21,7 +21,7 @@ x = "Hasib" # x is now of type str
 print(x)
 ```
 output: 
-```python
+```
 Hasib
 ```
 <b>Casting</b>
@@ -31,7 +31,7 @@ y = int(3)    # integer
 z = float(3)  # floating
 ```
 output:
-```python
+```
 3
 3
 3.0
