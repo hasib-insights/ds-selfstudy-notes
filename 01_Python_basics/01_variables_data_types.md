@@ -11,7 +11,7 @@ print(y)
 ```
 output:
 ```python
- 5
+5
 Hasib
 ```
 <b>print this variable</b>
@@ -45,7 +45,7 @@ print(type(x))
 print(type(y))
 ```
 output:
-```python
+```
 <class 'int'>
 <class 'str'>
 ```
