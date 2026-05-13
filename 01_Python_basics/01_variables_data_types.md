@@ -55,7 +55,7 @@ x = "John"
 # is the same as
 x = 'John'
 ```
-# Legal variable names
+## Legal variable names
 
 -A variable name must start with a letter or the underscore character  
 -A variable name cannot start with a number  
