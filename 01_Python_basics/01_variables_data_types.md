@@ -4,25 +4,36 @@ variavle_name = value
 ```
 Basic variable declaration
 ```python
-sales_qty = 150
-product_price = 25.99
-product_name = "Laptop"
-is_available = True
-
-print(sales_qty)
-print(product_price)
-print(product_name)
-print(is_available)
+x = 5
+y = "hasib"
+print(x)
+print(y)
 ```
-output:
 ```python
-150
-25.99
-Laptop
-True
+output: 5
+        Hasib
 ```
 print this variable
 ```python
-print(salary)            #output: 1000
+x = 4       # x is of type int
+x = "Hasib" # x is now of type str
+print(x)
+```
+```python
+output: Hasib
+```
+Casting
+```python
+x = str(3)    # x will be '3'
+y = int(3)    # y will be 3
+z = float(3)  # z will be 3.0
+```
+Get the Type
+<small>get the data type of a variable with the type() function.</small>
+```python
+x = 5
+y = "John"
+print(type(x))
+print(type(y))
 ```
 
