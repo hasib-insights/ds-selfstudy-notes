@@ -28,7 +28,7 @@ x = str(3)    # x will be '3'
 y = int(3)    # y will be 3
 z = float(3)  # z will be 3.0
 ```
-Get the Type
+Get the Type    
 <small>get the data type of a variable with the type() function.</small>
 ```python
 x = 5
