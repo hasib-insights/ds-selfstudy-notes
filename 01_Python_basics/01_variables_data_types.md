@@ -1,8 +1,8 @@
-<b>Variables</b>
+## Variables
 ```python
 variavle_name = value
 ```
-<b>Basic variable declaration</b>
+## Basic variable declaration
 ```python
 x = 5
 y = "hasib"
@@ -14,7 +14,7 @@ output:
 5
 Hasib
 ```
-<b>print this variable</b>
+## print this variable
 ```python
 x = 4       # x is of type int
 x = "Hasib" # x is now of type str
@@ -24,7 +24,7 @@ output:
 ```
 Hasib
 ```
-<b>Casting</b>
+## Casting
 ```python
 x = str(3)    # string 
 y = int(3)    # integer
@@ -36,7 +36,7 @@ output:
 3
 3.0
 ```
-<b>Get the Type</b>    
+## Get the Type   
 get the data type of a variable with the type() function.
 ```python
 x = 5
@@ -72,7 +72,7 @@ myVar = "John"
 MYVAR = "John"
 myvar2 = "John"
 ```
-<b>Illegal variable names</b>
+## Illegal variable names
 ```python
 2myvar = "John"
 my-var = "John"
