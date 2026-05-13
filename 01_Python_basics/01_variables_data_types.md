@@ -57,11 +57,11 @@ x = 'John'
 ```
 <b>Legal variable names:</b>  
 
->A variable name must start with a letter or the underscore character
->A variable name cannot start with a number
->A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
->Variable names are case-sensitive (age, Age and AGE are three different variables)
->A variable name cannot be any of the Python keywords.
+A variable name must start with a letter or the underscore character
+A variable name cannot start with a number
+A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
+Variable names are case-sensitive (age, Age and AGE are three different variables)
+A variable name cannot be any of the Python keywords.
 
 Example
 ```python
@@ -73,9 +73,12 @@ MYVAR = "John"
 myvar2 = "John"
 ```
 <b>Illegal variable names:</b>
-```python color= #ff0000 
+```python
+<span style="color:red;">
 2myvar = "John"
 my-var = "John"
 my var = "John"
+</span>
+
 ``` 
 
