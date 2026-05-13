@@ -9,9 +9,10 @@ y = "hasib"
 print(x)
 print(y)
 ```
+output:
 ```python
-output: 5
-        Hasib
+ 5
+Hasib
 ```
 <b>print this variable</b>
 ```python
@@ -19,14 +20,21 @@ x = 4       # x is of type int
 x = "Hasib" # x is now of type str
 print(x)
 ```
+output: 
 ```python
-output: Hasib
+Hasib
 ```
 <b>Casting</b>
 ```python
-x = str(3)    # x will be '3'
-y = int(3)    # y will be 3
-z = float(3)  # z will be 3.0
+x = str(3)    # string 
+y = int(3)    # integer
+z = float(3)  # floating
+```
+output:
+```python
+3
+3
+3.0
 ```
 <b>Get the Type</b>    
 get the data type of a variable with the type() function.
@@ -35,5 +43,10 @@ x = 5
 y = "John"
 print(type(x))
 print(type(y))
+```
+output:
+```python
+<class 'int'>
+<class 'str'>
 ```
 
