@@ -3,12 +3,12 @@ Variables can store data of different types, and different types can do differen
 Python has the following data types built-in by default, in these categories:
 Colons can be used to align columns.  
 
-                                                       ### Setting the Data Type 
-| Title          | Data Type                     |     | Data Type   | Example                                      |
-| -------------  |:-------------:                |     | ----------- | --------------------------------             |
-| Text Type      | str                           |     | str         | x = "Hello World"                            |
-| Numeric Types  | int, float, complex           |     | int         | x = 20                                       |
-| Sequence Types | list, tuple, range            |     | float       | x = 20.5                                     |
+                                                       
+| Title          | Data Type                     | --    | Data Type   | Example                                      |
+| -------------  |:-------------:                |   --  | ----------- | --------------------------------             |
+| Text Type      | str                           |    -- | str         | x = "Hello World"                            |
+| Numeric Types  | int, float, complex           |     --| int         | x = 20                                       |
+| Sequence Types | list, tuple, range            |     --| float       | x = 20.5                                     |
 | Mapping Type   | dict                          |
 | Set Types      | set, frozenset                |
 | Boolean Type   | bool                          |
