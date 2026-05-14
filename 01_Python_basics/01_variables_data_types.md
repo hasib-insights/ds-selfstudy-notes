@@ -130,7 +130,7 @@ out:
 ```
 Python is awesome
 ```
-In the print() function, you output multiple variables, separated by a comma:
+In the print() function, output multiple variables, separated by a comma:
 ```python
 x = "Python"
 y = "is"
@@ -141,6 +141,46 @@ out:
 ```
 Python is awesome
 ```
+also use the + operator to output multiple variables:
+```python
+x = "Python "
+y = "is "
+z = "awesome"
+print(x + y + z)
+```
+out:
+```
+Python is awesome
+```
+For numbers, the + character works as a mathematical operator:
+```python
+x = 5
+y = 10
+print(x + y)
+```
+out:
+```
+x = 5
+y = 10
+print(x + y)
+```
+out:
+```
+15
+```
+ when try to combine a **string** and a **number** with the **+** operator, Python will give you an error:
+ ```python
+x = 5
+y = "Hasib"
+print(x + y)
+```
+out:
+```
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+```
+
+
+
 
 
 
