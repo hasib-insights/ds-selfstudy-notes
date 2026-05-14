@@ -178,7 +178,17 @@ out:
 ```
 TypeError: unsupported operand type(s) for +: 'int' and 'str'
 ```
+## Global Variables
+Variables that are created outside of a function (as in all of the examples in the previous pages) are known as global variables.  
+Global variables can be used by everyone, both inside of functions and outside.
+```python
+x = "awesome"
 
+def function_name():   #define a function 
+  print("Python is " + x) #code 
+
+function_name() #call the function
+```
 
 
 
