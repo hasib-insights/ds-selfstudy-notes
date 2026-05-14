@@ -1,14 +1,18 @@
 ## Built-in Data Types  
 Variables can store data of different types, and different types can do different things.  
 Python has the following data types built-in by default, in these categories:
+Colons can be used to align columns.
 
-|Text Type 	str|
-|Numeric Types:	int, float, complex|
-|Sequence Types:	list, tuple, range|
-|Mapping Type:	dict|
-|Set Types:	set, frozenset|
-|Boolean Type:	bool|
-|Binary Types:	bytes, bytearray, memoryview|
-|None Type:	NoneType|
+| Example        | Data Type                     |
+| -------------  |:-------------:                |
+| Text Type      | str                           |
+| Numeric Types  | int, float, complex           |
+| Sequence Types | list, tuple, range            |
+| Mapping Type   | dict                          |
+| Set Types      | set, frozenset                |
+| Boolean Type   | bool                          |
+| Binary Types   | bytes, bytearray, memoryview  |
+| None Type      | 	bytes, bytearray, memoryview |
+
 
 
