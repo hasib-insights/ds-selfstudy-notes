@@ -64,7 +64,8 @@ print(type(x)) # <class 'complex'>
 print(type(y)) # <class 'complex'>
 print(type(z)) # <class 'complex'>
 ```
-## Type Conversion
+## Type Conversion  
+You can convert from one type to another with the int(), float(), and complex() methods
 ```python
 x = 1    # int
 #convert from int to float:
