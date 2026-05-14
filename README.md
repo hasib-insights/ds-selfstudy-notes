@@ -21,27 +21,12 @@
 
 ---
 
-## 🐍 Python Basics
+## Python Basics
 
-### 1️⃣ Variables
+### Variables
 > Variables are containers for storing data values in Python.
 
 📄 **[View Full Documentation](01_Python_basics/01_variables_.md)**
 
-**Key Concepts Covered:**
-- ✅ Variable declaration & assignment
-- ✅ Naming conventions (snake_case)
-- ✅ Multiple assignment
-- ✅ Global vs Local variables
-- ✅ Type inference
-- ✅ Constants in Python
 
-<details>
-<summary><b>📖 Preview: Variables</b> (Click to expand)</summary>
-
-01_Python_basics    [████████████████████] 100% ✅
-02_Numpy           [░░░░░░░░░░░░░░░░░░░░] 0% ⏳
-03_Pandas          [░░░░░░░░░░░░░░░░░░░░] 0% ⏳
-04_Matplotlib      [░░░░░░░░░░░░░░░░░░░░] 0% ⏳
-05_Scikit_learn    [░░░░░░░░░░░░░░░░░░░░] 0% ⏳
 
