@@ -4,11 +4,11 @@ Python has the following data types built-in by default, in these categories:
 Colons can be used to align columns.  
 
                                                        
-| Title          | Data Type                     | --    | Data Type   | Example                                      |
-| -------------  |:-------------:                |   --  | ----------- | --------------------------------             |
-| Text Type      | str                           |    -- | str         | x = "Hello World"                            |
-| Numeric Types  | int, float, complex           |     --| int         | x = 20                                       |
-| Sequence Types | list, tuple, range            |     --| float       | x = 20.5                                     |
+| Title          | Data Type                     | 
+| -------------  |:-------------:                |   
+| Text Type      | str                           |    
+| Numeric Types  | int, float, complex           |     
+| Sequence Types | list, tuple, range            |  
 | Mapping Type   | dict                          |
 | Set Types      | set, frozenset                |
 | Boolean Type   | bool                          |
