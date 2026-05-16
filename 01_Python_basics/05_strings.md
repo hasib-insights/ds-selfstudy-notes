@@ -53,5 +53,24 @@ print(a.lower())
 out:
 ```
 hello, world!
-``` 
+```
+## Replace String
+The **replace()** method replaces a string with another string:
+```python
+a = "Hello, World!"
+print(a.replace("H", "J")) #(Old, new)
+```
+out:
+```
+Jello, World!
+```
+```python
+a = "Hello, World!"
+print(a.replace("0", "d", 2)) #(Old, new, count)
+```
+out:
+```
+Helld, Wdrld!
+```
+
 
